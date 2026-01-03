@@ -1,2 +1,1 @@
-fonts-nanum
 fonts-wqy-microhei
